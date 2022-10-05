@@ -1,3 +1,7 @@
 hola
 como 
 estás?
+muy bien, gracias
+Este es el archivo.txt número 1
+voy a editarlo de nuevo
+vamos a ver que pasa 
